@@ -28,7 +28,7 @@ CONCLUSION:
 By using XGBRFClassifier algorithm we got 87.54027926960258 % accuracy.
 
 Team members:
-1)L.sai charan< /br>
+1)L.sai charan</br >
 2)V.S.V.Tarun
 3)G.S.S.Sai Kiran
 4)P.Suneetha
